@@ -3,3 +3,5 @@
 ################################################################################
 
 *.mdf
+/OdeToFood/OdeToFood/App_Data/OdeToFoodDb_log.ldf
+/Generic/.vs/Generic/v15/Server/sqlite3/db.lock

@@ -1,0 +1,11 @@
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\bin\Debug\netcoreapp2.0\Collectlt.deps.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\bin\Debug\netcoreapp2.0\Collectlt.runtimeconfig.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\bin\Debug\netcoreapp2.0\Collectlt.runtimeconfig.dev.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\bin\Debug\netcoreapp2.0\Collectlt.dll
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\bin\Debug\netcoreapp2.0\Collectlt.pdb
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.csproj.CoreCompileInputs.cache
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.AssemblyInfoInputs.cache
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.AssemblyInfo.cs
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.dll
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.pdb
+D:\Git\Visual Studio\C-sharp-training\Generic\Collectlt\obj\Debug\netcoreapp2.0\Collectlt.csprojResolveAssemblyReference.cache
