@@ -13,6 +13,14 @@ namespace OdeToFood
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            // /Cuisine/French
+            routes.MapRoute(
+                "Cuisine",
+                "cuisine/{name}",
+                new {controller="Cuisine",action="Search",name=UrlParameter.Optional}
+                );
+
+            // /Home/Index
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

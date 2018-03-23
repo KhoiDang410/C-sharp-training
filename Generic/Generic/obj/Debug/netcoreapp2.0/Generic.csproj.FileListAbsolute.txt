@@ -1,0 +1,11 @@
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\bin\Debug\netcoreapp2.0\Generic.deps.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\bin\Debug\netcoreapp2.0\Generic.runtimeconfig.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\bin\Debug\netcoreapp2.0\Generic.runtimeconfig.dev.json
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\bin\Debug\netcoreapp2.0\Generic.dll
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\bin\Debug\netcoreapp2.0\Generic.pdb
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.csprojResolveAssemblyReference.cache
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.csproj.CoreCompileInputs.cache
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.AssemblyInfoInputs.cache
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.AssemblyInfo.cs
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.dll
+D:\Git\Visual Studio\C-sharp-training\Generic\Generic\obj\Debug\netcoreapp2.0\Generic.pdb
